@@ -1,0 +1,135 @@
+@charset "UTF-8";
+	body {
+				margin: 0;
+				padding: 0;
+			}
+			
+			.denglu {
+				width: 499px;
+				height: 400px;
+				border: 1px solid silver;
+				margin: 0 auto;
+				margin-top: 200px;
+				position: relative;
+			}
+			
+			.choose {
+				width: 500px;
+				height: 50px;
+			}
+			
+			.choose a {
+				line-height: 50px;
+				font-size: 18px;
+				font-weight: bold;
+				font-family: "黑体";
+			}
+			
+			.xsd {
+				width: 499px;
+				height: 350px;
+				background-color:lightgray;
+				margin: 0 auto;
+				overflow: hidden;
+			}
+			
+			.sname1,
+			.sname {
+				width: 300px;
+				height: 30px;
+				font-family: "微软雅黑";
+				font-size: 18px;
+				vertical-align: middle;
+				margin: 0 auto;
+				margin-top: 30px;
+			}
+			
+			.sname1 {
+				margin-top: 30px;
+			}
+			
+			.iname {
+				width: 200px;
+				height: 30px;
+				border: 1px solid silver;
+				margin-left: 8px;
+			}
+			
+			.dati {
+				width: 200px;
+				height: 40px;
+				margin: 0 auto;
+				margin-top: 30px;
+			}
+			
+			.bt1 {
+				width: 200px;
+				height: 40px;
+				background-color: blue;
+				color: white;
+				border: 0;
+				font-size: 20px;
+				font-weight: bold;
+				cursor: pointer;
+			}
+			
+			.xb {
+				display: inline-block;
+				width: 249px;
+				height: 50px;
+				background-color: blue;
+				float: left;
+				border-right: 1px solid black;
+				text-align: center;
+				cursor: pointer;
+			}
+			
+			.xb:hover {
+				color: white;
+			}
+			
+			.lb {
+				display: inline-block;
+				width: 249px;
+				height: 50px;
+				background-color: aqua;
+				float: right;
+				margin-right: 1px;
+				text-align: center;
+				cursor: pointer;
+			}
+			
+			.lb:hover {
+				color: white;
+			}
+			
+			.xsd1 {
+				position: absolute;
+				left: 0px;
+				top: 50px;
+				background-color:white;
+				width: 499px;
+				height: 350px;
+				overflow: hidden;
+				margin: 0 auto;
+			}
+			
+			.n1 {
+				margin-top: 8px;
+			}
+			
+			.bt2 {
+				width: 200px;
+				height: 40px;
+				background-color: aqua;
+				color: blue;
+				border: 0;
+				font-size: 20px;
+				font-weight: bold;
+				margin-top: 30px;
+				cursor: pointer;
+			}
+			
+			a {
+				cursor: pointer;
+			}
